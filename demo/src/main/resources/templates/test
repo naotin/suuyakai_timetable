@@ -1,0 +1,12 @@
+<html>
+
+<head>
+<title>表示確認用のページ</title>
+</head>
+
+<body>
+<h1>これは表示確認用のページです</h1>
+<a href="https://www.youtube.com/">YouTubeが見たくなったらここをクリック！</a>
+</body>
+
+</html>
